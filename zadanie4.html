@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Internet Rzeczy - Formularz</title>
+  <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="data.html">Data</a>
+      <a href="zadanie3.html">Images</a>
+      <a href="zadanie4.html">Form</a>
+      <a href="author.html">Authors</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Formularz</h1>
+
+    <form>
+      <label for="name">Imię:</label><br>
+      <input type="text" id="name" name="name"><br><br>
+
+      <label for="email">Adres email:</label><br>
+      <input type="email" id="email" name="email"><br><br>
+
+      <label for="topic">Temat:</label><br>
+      <select id="topic" name="topic">
+        <option value="html">HTML</option>
+        <option value="css">CSS</option>
+        <option value="github">GitHub</option>
+      </select><br><br>
+
+      <label for="topic">Źrodło informacji</label><br>
+      <select id="topic" name="topic">
+        <option value="wikipedia">wikipedia</option>
+        <option value="youtube">youtube</option>
+        <option value="książki">książki</option>
+      </select><br><br>
+
+      <button type="submit" class="btn-green">Zapisz</button>
+      <button type="reset" class="btn-green">Anuluj</button>
+    </form>
+  </main>
+</body>
+</html>
