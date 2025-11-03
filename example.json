@@ -1,0 +1,20 @@
+[
+    {
+        "nazwa": "Facebok",
+        "rok utworzenia": 2004,
+        "zalozyciel": "Mark Zuckerberg",
+        "wlasciciel": "Meta Platforms"
+    },
+    {
+        "nazwa": "Linkedin",
+        "rok utworzenia": 2003,
+        "zalozyciel": "Reid Hoffman",
+        "wlasciciel": "Microsoft"
+    },
+    {
+        "nazwa": "TikTok",
+        "rok utworzenia": 2016,
+        "zalozyciel": "Zhang Yiming",
+        "wlasciciel": "ByteDance"
+    }
+]
