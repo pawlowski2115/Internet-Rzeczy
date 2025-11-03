@@ -1,3 +1,25 @@
+.title {
+    text-align: center;
+}
+.title {
+    text-align: center;
+}
+.data-table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse; 
+}
+
+.data-table th,
+.data-table td {
+  border: 1px solid black;   
+  padding: 8px;
+}
+
+.data-table th {
+  background: black;         
+  color: white;              
+}
 
 #menu1
 {
@@ -7,6 +29,7 @@
 }
 #tytul
 {
+color: green;
 color: rgb(0, 255, 0);
 }
 #zdania1

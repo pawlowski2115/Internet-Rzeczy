@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale>
+    <Facebook>
+        <zalozyciel wiek="41">Mark Zuckerberg</zalozyciel>
+        <data>4 lutego 2004</data>
+        <wlasciciel>Meta Platforms</wlasciciel>
+        <jezyki>117</jezyki>
+    </Facebook>
+    <Linkedin>
+        <zalozyciel wiek="58">Reid Hoffman</zalozyciel>
+        <data>5 maja 2003</data>
+        <wlasciciel>Microsoft</wlasciciel>
+        <jezyki>24</jezyki>
+    </Linkedin>
+    <TikTok>
+        <zalozyciel wiek="42">Zhang Yiming</zalozyciel>
+        <data>20 września 2016</data>
+        <wlasciciel>ByteDance</wlasciciel>
+        <jezyki>75</jezyki>
+    </TikTok>
+</portale>
