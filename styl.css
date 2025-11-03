@@ -20,6 +20,7 @@
   background: black;         
   color: white;              
 }
+
 #menu1
 {
     height: 20%;
@@ -29,6 +30,7 @@
 #tytul
 {
 color: green;
+color: rgb(0, 255, 0);
 }
 #zdania1
 {
@@ -64,3 +66,41 @@ color: green;
 {
     background-color: blue;
 }
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1cm;
+  }
+  .gallery img {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #333;
+  }
+  
+
+/*formularz*/
+  form {
+    background-color: #e0f0ff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  .btn-orange {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  h1
+  {
+    text-align: center;
+  }
+  #email, #name
+  {
+    background-color: rgb(126, 255, 244);
+  }
+
