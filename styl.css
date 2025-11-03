@@ -64,12 +64,20 @@ color: rgb(0, 255, 0);
     width: 300px;
     margin: 0 auto;
   }
-  .btn-green {
-    background-color: green;
+  .btn-orange {
+    background-color: orange;
     color: white;
     border: none;
     padding: 8px 15px;
     border-radius: 4px;
     cursor: pointer;
+  }
+  h1
+  {
+    text-align: center;
+  }
+  #email, #name
+  {
+    background-color: rgb(126, 255, 244);
   }
 
